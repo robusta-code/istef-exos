@@ -1,4 +1,4 @@
-# istef-exos
+# Exercices Javascript
 
 Exercices pour l'istef
 
