@@ -1,6 +1,6 @@
 # Exercices Javascript
 
-Exercices pour l'istef
+Pur Vanilla Javascript, aucune lib ou framework
 
 
 Portée des variables
